@@ -8,4 +8,4 @@ Note: If there is no Tones folder, your iPod is not compatible.
 • New tones should appear as a list in your Alarms sound list when creating a new alarm.
 • Press ⏯️ on your iPod to preview the highlighted tone through the iPod's internal piezo beeper
 
-Enjoy!
+Enjoy your new alarm sounds!
