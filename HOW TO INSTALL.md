@@ -15,4 +15,6 @@ Note: If there is no Tones folder, your iPod is not compatible.
 
 • Press ⏯️ on your iPod to preview the highlighted tone through the iPod's internal piezo beeper
 
+Note: Once a tone is playing it cannot be stopped until it runs its course
+
 Enjoy your new alarm sounds!
