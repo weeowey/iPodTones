@@ -7,6 +7,7 @@ Instructions
 • Open the iPod_Control folder
 
 • If there is a Tones folder you are good to proceed to install the .tones files by moving/copying them into the Tones folder. 
+
 Note: If there is no Tones folder, your iPod is not compatible.
 
 • Eject your iPod
